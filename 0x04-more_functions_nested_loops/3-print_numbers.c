@@ -4,13 +4,14 @@
  * print_numbers - print from 0 to 9
  * Return: Always 0
  */
+
 void print_number(void);
 {
-	int a = 0;
+	int n;
 
-	while (a < 10)
-
-	_putchar(c);
-
-	_putchar ('\n');
+	for (n = 48; n < 58; 'n**')
+{
+	_putchar(n);
+}
+	_putchar(10);
 }
