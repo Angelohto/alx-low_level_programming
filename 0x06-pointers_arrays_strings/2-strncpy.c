@@ -1,5 +1,5 @@
 #include "main.h"
-#include <stdio>
+
 /**
  * _strncpy - copy a string with n
  * @dest: copy to
@@ -23,3 +23,4 @@ char *_strncpy(char *dest, char *src, int n)
 		j++;
 	}
 	return (dest);
+}
