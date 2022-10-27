@@ -1,5 +1,5 @@
 #include "main_h"
-#include <stdio.h>
+#include <string.h>
 
 /**
  * _strncat - joins two string with n bytes
