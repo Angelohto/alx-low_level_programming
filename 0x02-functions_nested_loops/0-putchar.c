@@ -2,8 +2,8 @@
 
 
 /**
- * main - print _putchar
- * Return: O
+ * main - print _putchar and a new line
+ * Return: Always O
  */
 int main(void)
 {
